@@ -1,0 +1,731 @@
+id,name,cp
+1,Velia,0
+2,Western Guard Camp,1
+3,Cron Castle,2
+4,Western Gateway,3
+5,Bandit's Den Byway,3
+6,Heidel Pass,3
+21,Bartali Farm,2
+22,Finto Farm,2
+23,Goblin Cave,2
+24,Ancient Stone Chamber,1
+25,Imp Cave,1
+26,Loggia Farm,2
+27,Marino Farm,2
+41,Cron Castle Site,1
+42,Ehwaz Hill,1
+43,Forest of Plunder,1
+44,Balenos Forest,2
+45,Toscani Farm,2
+46,Coastal Cave,1
+47,Altar of Agris,1
+48,Forest of Seclusion,2
+49,Coastal Cliff,1
+62,Florin Gateway,3
+63,Elder's Bridge,1
+64,Casta Farm,1
+65,Wale Farm,1
+66,Wolf Hills,1
+67,Balenos River Mouth,1
+68,Terrmian Cliff,1
+69,Foot of Terrmian Mountain,1
+70,Olvia Coast,1
+71,Epheria Ridge,1
+72,Mask Owl's Forest,1
+104,Specialties,1
+105,Specialties,1
+106,Specialties,1
+107,Specialties,1
+108,Specialties,1
+109,Specialties,1
+131,Potato Farming,1
+132,Chicken Meat Production,1
+133,Ossuary,1
+134,Ossuary,1
+135,Potato Farming,1
+136,Chicken Meat Production,1
+139,Mining,1
+142,Lumbering,1
+144,Excavation,1
+147,Mining,1
+148,Mining,1
+151,Potato Farming,1
+152,Specialties,1
+155,Gathering,1
+156,Mining,1
+159,Gathering,1
+160,Lumbering,1
+164,Gathering,1
+167,Lumbering,1
+168,Gathering,1
+171,Corn Farming,1
+172,Corn Farming,1
+175,Mining,1
+176,Mining,1
+179,Gathering,1
+183,Lumbering,1
+184,Mining,1
+187,Gathering,1
+188,Mining,1
+201,Lumbering,1
+202,Mining,1
+203,Grapes,1
+204,Olives,1
+301,Heidel,0
+303,Northern Guard Camp,3
+304,Central Guard Camp,3
+305,Southern Guard Camp,3
+306,Northwestern Gateway,3
+307,Southwestern Gateway,3
+308,Eastern Border,3
+309,Eastern Gateway,3
+321,Alejandro Farm,2
+322,Costa Farm,2
+323,Moretti Plantation,2
+324,Castle Ruins,1
+325,Bloody Monastery,1
+326,Northern Heidel Quarry,1
+327,Serendia Shrine,1
+328,Lynch Ranch,2
+341,Northern Plain of Serendia,1
+343,Glish Swamp,1
+344,Southern Cienaga,1
+345,Glish Ruins,1
+346,Northern Cienaga,2
+347,Lynch Farm Ruins,1
+371,Biraghi Den,3
+372,Bradie Fortress,1
+373,Southern Neutral Zone,3
+374,Orc Camp,3
+375,Delphe Knights Castle,3
+376,Watchtower,1
+407,Specialties,1
+408,Specialties,1
+409,Specialties,1
+410,Specialties,1
+431,Pumpkin Farming,1
+432,Honey Production,1
+435,Wheat Farming,1
+436,Pumpkin Farming,1
+437,Specialties,1
+438,Flax Farming,1
+439,Wheat Farming,1
+440,Flax Farming,1
+441,Moretti Safe Zone,1
+443,Lumbering,1
+451,Mining,1
+452,Mining,1
+455,Lumbering,1
+459,Fleece Production,1
+463,Gathering,1
+464,Lumbering,1
+471,Gathering,1
+472,Mining,1
+475,Gathering,1
+476,Mining,1
+479,Gathering,1
+480,Excavation,1
+483,Gathering,1
+484,Mining,1
+487,Gathering,1
+488,Excavation,1
+601,Calpheon,0
+603,Florin,1
+609,Behr,1
+611,Norma Leight Investment Bank,1
+612,Valentine Investment Bank,1
+613,Specialties,1
+614,Specialties,1
+615,Specialties,1
+616,Specialties,1
+617,Specialties,1
+618,Specialties,1
+619,Specialties,1
+621,Abandoned Land,1
+622,Quint Hill,1
+623,Anti-Troll Fortification,3
+624,Bree Tree Ruins,1
+625,Khuruto Cave,1
+626,Delphe Outpost,3
+627,Karanda Ridge,1
+628,Northern Wheat Plantation,2
+629,Old Dandelion,1
+630,Contaminated Farm,2
+631,Caphras Cave,1
+632,Isolated Sentry Post,3
+633,Dias Farm,2
+634,Epheria Sentry Post,3
+635,Epheria Valley,1
+636,Cohen Farm,2
+637,Elder's Bridge Post,3
+638,Bernianto Farm,2
+651,Marni Cave Path,3
+652,Oze Pass,1
+653,Marni Farm Ruins,1
+654,Keplan Hill,1
+655,Saunil Camp,1
+656,Primal Giant Post,1
+657,Saunil Battlefield,1
+658,Trina Fort,3
+659,Trina Beacon Towers,3
+660,Marni's Lab,1
+661,Falres Dirt Farm,2
+662,Hexe Stone Wall,1
+663,Bain Farmland,2
+664,North Abandoned Quarry,1
+665,Oberen Farm,2
+666,Beacon Entrance Post,3
+667,Abandoned Quarry,2
+668,Gehaku Plain,1
+669,Keplan Vicinity,1
+670,Gianin Farm,2
+671,Serendia Western Gateway,3
+672,Glutoni Cave,1
+673,Quarry Byway,2
+674,Keplan Quarry,1
+675,Oze's House,1
+676,Dane Canyon,2
+677,Tarte Rock Fork,1
+701,Calpheon Castle Site,1
+702,Calpheon Castle,3
+703,Treant Forest,1
+704,North Kaia Pier,3
+705,Behr Riverhead,1
+706,Rhutum Outstation,1
+707,Rhutum Sentry Post,3
+708,Abandoned Monastery,3
+709,Crioville,2
+710,Rhua Tree Stub,1
+711,South Kaia Pier,3
+712,Gabino Farm,2
+713,Catfishman Camp,1
+714,Calpheon Castle W. Forest,1
+715,Mansha Forest,2
+716,Marie Cave,1
+717,Tobare's Cabin,2
+718,Lumberjack's Rest Area,1
+719,Longleaf Tree Sentry Post,2
+720,Longleaf Tree Forest,1
+721,Witch's Chapel,1
+722,Phoniel's Cabin,2
+723,Behr Downstream,3
+724,Hexe Sanctuary,2
+725,Phoniel's Cabin Entrance,1
+726,North Kaia Mountaintop,1
+727,Lake Kaia,1
+801,Calpheon Trade Exchange,1
+805,Specialties,1
+806,Florin_2,1
+807,Florin_3,1
+831,Gathering,1
+834,Lumbering,1
+835,Mining,1
+840,Lumbering,1
+841,Gathering,1
+842,Excavation,1
+843,Mining,1
+844,Khuruto Cave,1
+849,Gathering,1
+850,Karanda Ridge,1
+852,Wheat Farming,1
+853,Barley Farming,1
+854,Paprika Farming,1
+855,Lumbering,1
+856,Old Dandelion,1
+857,Specialties,1
+858,Northern Wheat Plantation Safe Zone,1
+901,Lumbering,1
+902,Excavation,1
+903,Lumbering,1
+904,Gathering,1
+905,Lumbering,1
+906,Gathering,1
+907,Lumbering,1
+908,Lumbering,1
+909,Abandoned Monastery,1
+910,Lumbering,1
+911,Gathering,1
+912,Excavation,1
+913,Mining,1
+914,Mining,1
+950,Mining,1
+951,Mining,1
+952,Lumbering,1
+953,Oze Pass,1
+954,North Abandoned Quarry,1
+955,Abandoned Quarry,1
+956,Keplan Hill,1
+957,Gathering,1
+958,Mining,1
+959,Mining,1
+960,Hexe Stone Wall,1
+961,Calpheon City Trade Zone,1
+962,Calpheon Market Trade Zone,1
+963,Calpheon Holy College Trade Zone,1
+964,Specialties,1
+1001,Lema Island,1
+1003,Pilava Island,1
+1004,Delinghart Island,1
+1005,Pujara Island,1
+1006,Ajir Island,1
+1007,Al-Naha Island,1
+1008,Racid Island,1
+1009,Baremi Island,1
+1010,Weita Island,1
+1011,Beiruwa Island,1
+1012,Taramura Island,1
+1013,Ostra Island,1
+1014,Arakil Island,1
+1015,Kanvera Island,1
+1016,Orffs Island,1
+1017,Tulu Island,1
+1018,Luivano Island,1
+1019,Duch Island,1
+1020,Mariveno Island,1
+1021,Paratama Island,1
+1022,Eveto Island,1
+1023,Balvege Island,1
+1024,Marlene Island,1
+1026,Invernen Island,1
+1027,Angie Island,1
+1028,Tashu Island,1
+1029,Fish Drying Yard 1,1
+1030,Fish Drying Yard 2,1
+1031,Fish Drying Yard 1,1
+1032,Fish Drying Yard 2,1
+1033,Fish Drying Yard 1,1
+1034,Fish Drying Yard 2,1
+1035,Fish Drying Yard 1,1
+1036,Fish Drying Yard 2,1
+1037,Fish Drying Yard,1
+1038,Fish Drying Yard,1
+1039,Ephde Rune Island,1
+1040,Fish Drying Yard,1
+1041,Fish Drying Yard 1,1
+1042,Fish Drying Yard,1
+1043,Fish Drying Yard 1,1
+1044,Fish Drying Yard 2,1
+1045,Fish Drying Yard 3,1
+1046,Fish Drying Yard 1,1
+1047,Fish Drying Yard 2,1
+1048,Fish Drying Yard 1,1
+1049,Fish Drying Yard,1
+1050,Fish Drying Yard 2,1
+1051,Marka Island,1
+1052,Louruve Island,1
+1053,Staren Island,1
+1054,Lisz Island,1
+1055,Narvo Island,1
+1056,Albresser Island,1
+1057,Eberdeen Island,1
+1058,Oben Island,1
+1059,Daton Island,1
+1060,Dunde Island,1
+1061,Barater Island,1
+1062,Randis Island,1
+1063,Serca Island,1
+1064,Baeza Island,1
+1065,Modric Island,1
+1066,Theonil Island,1
+1067,Teyamal Island,1
+1068,Rameda Island,1
+1069,Ginburrey Island,1
+1070,Netnume Island,1
+1071,Fish Drying Yard,1
+1072,Fish Drying Yard,1
+1073,Fish Drying Yard,1
+1074,Fish Drying Yard 1,1
+1075,Fish Drying Yard 2,1
+1076,Fish Drying Yard 1,1
+1077,Fish Drying Yard,1
+1078,Fish Drying Yard 2,1
+1079,Fish Drying Yard 1,1
+1080,Fish Drying Yard 2,1
+1081,Fish Drying Yard 1,1
+1082,Fish Drying Yard 2,1
+1083,Fish Drying Yard,1
+1084,Fish Drying Yard 1,1
+1085,Fish Drying Yard 2,1
+1086,Fish Drying Yard 1,1
+1087,Fish Drying Yard 2,1
+1088,Fish Drying Yard,1
+1089,Fish Drying Yard,1
+1090,Fish Drying Yard 2,1
+1091,Kuit Islands,3
+1092,Almai Island,1
+1093,Padix Island,1
+1094,Teste Island,1
+1095,Arita Island,1
+1096,Shasha Island,1
+1097,Rosevan Island,1
+1098,Portanen Island,1
+1099,Tinberra Island,1
+1100,Lerao Island,1
+1101,Altinova,0
+1131,Mediah Northern Gateway,3
+1132,Sausan Garrison,1
+1133,Stonetail Wasteland,1
+1134,Mediah Northern Highlands,2
+1135,Rumbling Land,1
+1136,Kamasylve Temple,2
+1137,Manes Hideout,1
+1138,Asula Highland,1
+1139,Wandering Rogue Den,1
+1140,Altinova Entrance,1
+1143,Alumn Rock Valley,1
+1144,Abandoned Iron Mine,2
+1145,Abun,1
+1146,Marni's 2nd Lab,2
+1147,Stonebeak Shore,1
+1148,Soldier's Grave,1
+1149,Omar Lava Cave,2
+1150,The Mausoleum,1
+1151,Sarma Outpost,1
+1152,Mediah Castle,1
+1153,Kusha,1
+1154,Canyon of Corruption,1
+1155,Elric Shrine,1
+1156,Ancient Ruins Excavation Site,1
+1157,Helms Post,1
+1158,Stonetail Horse Ranch,1
+1159,Ahto Farm,2
+1160,Shuri Farm,2
+1161,Kasula Farm,2
+1162,Ancient Fissure,2
+1163,Mediah Shore,1
+1164,Highland Junction,1
+1165,Splashing Point,1
+1166,Sausan Garrison Wharf,1
+1167,Abdn. Iron Mine Rhutum Dt.,1
+1168,Abdn. Iron Mine Saunil Dt.,1
+1169,Abandoned Iron Mine Entrance,1
+1170,Awakening Bell,1
+1171,Tungrad Forest,1
+1172,Hasrah Cliff,1
+1194,Specialties,1
+1195,Specialties,1
+1196,Specialties,1
+1197,Specialties,1
+1198,Specialties,1
+1199,Specialties,1
+1200,Specialties,1
+1201,Cotton Farming,2
+1202,Aloe Farming,2
+1203,Mining,3
+1204,Mining,3
+1205,Sweet Potato Farming,2
+1206,Cotton Farming,2
+1207,Cinnamon Farming,2
+1208,Mining,3
+1209,Mining,3
+1210,Gathering,3
+1211,Gathering,2
+1212,Lumbering,3
+1213,Mining,3
+1214,Gathering,2
+1215,Lumbering,3
+1216,Lumbering,3
+1217,Gathering,3
+1218,Mining,3
+1219,Lumbering,3
+1220,Excavation,3
+1221,Flax Farming,2
+1301,Valencia City,0
+1302,Altinova Gateway,3
+1303,Rock Post,3
+1304,Gorgo Rock Belt,1
+1305,Veteran's Canyon,1
+1306,Cadry Ruins,1
+1307,Kunid's Vacation Spot,1
+1308,Leical Falls,1
+1309,Pujiya Canyon,3
+1310,Bashim Base,1
+1311,Waragon Nest,1
+1312,Deserted City of Runn,1
+1313,Runn Gateway Intersection,3
+1315,Taphtar Plain,1
+1316,Basilisk Den,4
+1317,Barhan Gateway,3
+1318,Capotia,1
+1321,Yalt Canyon,1
+1322,Desert Naga Temple,3
+1324,Pila Fe,1
+1325,Pilgrim's Haven,3
+1326,Hope Pier,1
+1327,Gahaz Bandit's Lair,1
+1328,Bambu Valley,1
+1329,Iris Canyon,1
+1330,Kmach Canyon,1
+1331,Ibellab Oasis,3
+1332,Pilgrim's Sanctum: Obedience,3
+1333,Pilgrim's Sanctum: Abstinence,3
+1334,Pilgrim's Sanctum: Sharing,3
+1335,Pilgrim's Sanctum: Sincerity,3
+1336,Pilgrim's Sanctum: Humility,3
+1337,Pilgrim's Sanctum: Purity,3
+1338,Pilgrim's Sanctum: Fast,3
+1339,Rakshan Observatory,3
+1340,Scarlet Sand Chamber,1
+1342,Valencia Castle,1
+1343,Ancado Inner Harbor,1
+1344,Aakman,5
+1345,Crescent Shrine,1
+1346,Crescent Mountains,3
+1347,Titium Valley,3
+1350,Valencia Western Highlands,1
+1351,Bazaar Farmland,2
+1352,Shakatu Farmland,2
+1353,Altas Farmland,2
+1354,Erdal Farm,2
+1355,Valencia Plantation,2
+1356,Fohalam Farm,2
+1364,Sokota Island,1
+1365,Riyed Island,1
+1366,Esfah Island,1
+1367,Tigris Island,1
+1368,Shirna Island,1
+1369,Halmad Island,1
+1370,Kashuma Island,1
+1371,Orisha Island,1
+1372,Boa Island,1
+1373,Kisleev Crag,1
+1374,Valencia Castle Site,1
+1375,Ancado Coast,1
+1376,Derko Island,5
+1377,Shakatu Abandoned Pier,2
+1379,Areha Palm Forest,1
+1382,Central Cantusa,1
+1383,Cantusa Desert,2
+1384,Pila Ku Jail,3
+1385,Northern Sand Dune,1
+1387,Gavinya Volcano Zone,3
+1388,Gavinya Great Crater,2
+1389,Gavinya Coastal Cliff,1
+1390,Roud Sulfur Works,2
+1391,Ivory Wasteland,1
+1392,Ivero Cliff,1
+1393,Dona Rocky Mountain,1
+1394,Hakoven Island,1
+1397,Zagam Island,1
+1398,Mariul Island,1
+1399,Nada Island,3
+1450,Fish Drying Yard 1,2
+1451,Fish Drying Yard 2,2
+1501,Gathering,1
+1502,Lumbering,1
+1503,Mining,3
+1504,Lumbering,3
+1505,Gathering,3
+1506,Gathering,3
+1507,Mining,3
+1508,Mining,3
+1509,Gathering,3
+1510,Mining,3
+1512,Lumbering,3
+1513,Mining,3
+1514,Gathering,3
+1515,Gathering,3
+1516,Lumbering,3
+1517,Mining,3
+1518,Gathering,3
+1519,Gathering,3
+1520,Gathering,3
+1521,Mining,3
+1522,Mining,3
+1523,Mining,3
+1524,Gathering,3
+1525,Gathering,3
+1526,Lumbering,3
+1527,Nutmeg,3
+1528,Teff,3
+1529,Fig,3
+1530,Fig,3
+1531,Star Anise,3
+1532,Teff,3
+1533,Teff,3
+1534,Pistachio,3
+1535,Date Palm,3
+1536,Pistachio,3
+1537,Date Palm,3
+1538,Freekeh,3
+1539,Teff,3
+1540,Teff,3
+1541,Specialties,1
+1542,Specialties,1
+1543,Specialties,1
+1544,Specialties,1
+1545,Specialties,1
+1546,Specialties,1
+1553,Excavation,1
+1554,Lumbering,3
+1555,Lumbering,3
+1556,Mining,2
+1557,Gathering,2
+1558,Mining,2
+1559,Gathering,2
+1560,Gathering,2
+1561,Mining,2
+1562,Mining,2
+1563,Specialties,3
+1564,Specialties,3
+1565,Silk Culture,3
+1566,Excavation,5
+1600,Kamasylvia Vicinity,2
+1601,Lemoria Guard Post,2
+1602,Atanis Pond,1
+1603,Caduil Forest,1
+1605,Shady Tree Forest,1
+1606,Navarn Steppe,3
+1607,Central Lemoria Camp,1
+1608,Manshaum Forest,3
+1609,Holo Forest,2
+1610,Viv Foretta Hamlet,2
+1611,Valtarra Mountains,1
+1612,Valtarra - Altar of Training,2
+1613,Mirumok Ruins,3
+1614,Lemoria Beacon Towers,1
+1615,Southeast Kamasylvia,2
+1616,Western Valtarra Mountains,2
+1617,Acher Guard Post,3
+1618,Loopy Tree Forest,2
+1619,Tooth Fairy Forest,3
+1620,Tooth Fairy Cabin,2
+1621,White Wood Forest,1
+1622,Lake Flondor,3
+1623,Grána,0
+1624,Polly's Forest,2
+1625,Southern Kamasylvia,2
+1626,Gyfin Rhasia Temple,3
+1627,Krogdalo's Trace,2
+1628,Looney Cabin,1
+1629,Weenie Cabin,1
+1630,Ash Forest,3
+1631,Yianaros's Field,1
+1632,Okiara River,1
+1633,Farming,1
+1634,Specialty(?),3
+1635,Lumbering,3
+1636,Mining,2
+1637,Excavation,2
+1638,Lumbering,2
+1639,Gathering,2
+1640,Grow Mushroom,2
+1641,Grow Mushroom,2
+1642,Mining,2
+1645,Mining,2
+1646,Acher Western Camp,2
+1647,Acher Southern Camp,1
+1648,Roud Sulfur Mine,2
+1649,Duvencrune,0
+1650,Duvencrune Farmland,1
+1651,Duvencrune,1
+1652,Ahib Conflict Zone,2
+1653,Akum Rocky Mountain,1
+1654,Khalk Canyon,1
+1655,Sherekhan Necropolis,3
+1656,Garmoth's Nest,2
+1657,Harak's Shelter,1
+1658,Morning Fog Post,1
+1659,Night Crow Post,2
+1660,Windy Peak,1
+1661,Marcha Outpost,3
+1662,Gayak Altar,1
+1663,Fountain of Origin,2
+1664,Gervish Mountains,1
+1665,Dormann Lumber Camp,2
+1666,Khimut Lumber Camp,2
+1667,Forgotten Gateway,1
+1668,Tshira Ruins,2
+1669,Blood Wolf Settlement,3
+1670,Marak Farm,2
+1671,Farming,3
+1672,Farming,3
+1673,Farming,3
+1674,Farming,3
+1675,Gathering,2
+1676,Gathering,2
+1677,Gathering,2
+1678,Gathering,2
+1679,Mining,5
+1680,Mining,5
+1681,Mining,5
+1682,Mining,5
+1683,Lumbering,5
+1684,Lumbering,5
+1685,Lumbering,5
+1686,Lumbering,5
+1687,Excavation,3
+1688,Excavation,3
+1691,O'draxxia,0
+1692,O'dyllita Castle,1
+1693,Thornwood Forest,3
+1694,Crypt of Resting Thoughts,3
+1695,Narcion,2
+1696,Talibahr's Rope,2
+1697,La O'delle,2
+1698,Starry Midnight Port,3
+1699,Thornwood Castle,2
+1700,Tunkuta,3
+1701,Salun's Border,1
+1702,Bahit Sanctum,1
+1703,Olun's Valley,3
+1704,Star's End,3
+1705,Calpheon Northwestern Outpost,3
+1706,Black Mountains,3
+1707,Grape Farming,2
+1708,Potato Farming,2
+1709,Excavation,5
+1710,Mining,5
+1711,Mining,5
+1712,Lumbering,3
+1713,Chicken Meat Production,2
+1714,Fish Drying Yard,3
+1715,Lumbering,2
+1716,Excavation,3
+1717,Mining,1
+1718,Brellin Farm,2
+1719,Outpost Supply Port,2
+1720,Excavation,1
+1734,Chiro's Cannon Workshop,3
+1735,Chiro's Sail Workshop,3
+1736,Chiro's Prow Statue Workshop,3
+1737,Chiro's Black Plating Workshop,3
+1738,Grándiha,2
+1739,Papua Crinea,2
+1740,Forgotten Mountain,1
+1741,Salanar Pond,2
+1742,Delmira Plantation,2
+1743,Mountain of Division,2
+1744,Shiv Valley Road,2
+1747,<no translation>,2
+1748,<no translation>,3
+1749,<no translation>,2
+1750,<no translation>,0
+1751,<no translation>,2
+1752,<no translation>,3
+1753,<no translation>,2
+1754,<no translation>,1
+1755,<no translation>,3
+1756,<no translation>,1
+1757,<no translation>,3
+1759,<no translation>,3
+1760,<no translation>,3
+1761,<no translation>,1
+1762,<no translation>,2
+1763,<no translation>,3
+1764,<no translation>,1
+1766,<no translation>,2
+1767,<no translation>,5
+1768,<no translation>,2
+1769,<no translation>,1
+1770,<no translation>,3
+1771,<no translation>,2
+1772,<no translation>,5
+1773,<no translation>,2
+1774,<no translation>,2
+1775,<no translation>,3
+1776,<no translation>,2
+1777,<no translation>,2
+1778,<no translation>,3
+1779,<no translation>,1
+1780,<no translation>,2
